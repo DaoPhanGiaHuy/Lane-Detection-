@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/554dc32a-5b1d-4b07-99a8-8af942c3a40e)# LANE DETECTION
+# LANE DETECTION
 
-🦈 This is a Pull Shark test update!
+🦈 This is a Pull Shark test update!!
 
 ## Giới Thiệu
 
